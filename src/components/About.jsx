@@ -53,10 +53,10 @@ function About() {
                   Who I Am
                 </Typography>
                 <Typography paragraph>
-                  I'm a passionate Full Stack Developer with a strong foundation in both front-end and back-end development. With [X] years of experience in the field, I've had the opportunity to work on diverse projects that have shaped my expertise in creating efficient, scalable, and user-friendly applications.
+                  I'm a seasoned Database Administrator with a comprehensive background in database management and security. With extensive experience in the field, I've developed expertise in managing complex database environments, implementing robust security measures, and optimizing database performance for enterprise-level applications.
                 </Typography>
                 <Typography paragraph>
-                  My journey in software development began with [Your Background]. Since then, I've been continuously learning and adapting to new technologies while maintaining a focus on writing clean, maintainable code.
+                  My journey in database administration has equipped me with deep knowledge in various database technologies and best practices. I'm passionate about maintaining data integrity, ensuring system availability, and implementing efficient database solutions that drive business success.
                 </Typography>
               </Paper>
             </motion.div>
@@ -82,14 +82,14 @@ function About() {
                   What I Do
                 </Typography>
                 <Typography paragraph>
-                  I specialize in building modern web applications using cutting-edge technologies. My expertise includes:
+                  I specialize in comprehensive database management and security solutions. My expertise includes:
                 </Typography>
                 <Typography component="ul" sx={{ pl: 2 }}>
-                  <li>Full-stack web development</li>
-                  <li>Responsive and interactive UI design</li>
-                  <li>RESTful API development</li>
-                  <li>Database design and optimization</li>
-                  <li>Cloud services integration</li>
+                  <li>Database design and architecture</li>
+                  <li>Performance optimization and tuning</li>
+                  <li>Security implementation and auditing</li>
+                  <li>High availability and disaster recovery</li>
+                  <li>Data migration and integration</li>
                 </Typography>
               </Paper>
             </motion.div>
